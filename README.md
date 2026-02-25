@@ -1,4 +1,4 @@
-RobotTask-2-3. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application. 
+RobotTask-2-3. Python Tutorials. Actor Robot. StepInDev Platform. GUI Application.
 
 RobotTask-2-3. Занятия по Python. Исполнитель Робот. Платформа StepInDev. Приложение с графическим интерфейсом пользователя.
 
